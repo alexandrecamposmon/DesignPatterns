@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectUniqueName": "C:\\GitHub\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
       "projectName": "DesignPatterns",
-      "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectPath": "C:\\GitHub\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatterns\\DesignPatterns\\obj\\",
+      "outputPath": "C:\\GitHub\\DesignPatterns\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
