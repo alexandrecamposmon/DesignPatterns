@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace DesignPatterns.Abstract_Factory
 {
@@ -33,7 +31,5 @@ namespace DesignPatterns.Abstract_Factory
                     throw new Exception("Não foi possível cozinhar!");
             }
         }
-
-
     }
 }
