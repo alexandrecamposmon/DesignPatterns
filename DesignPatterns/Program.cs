@@ -1,5 +1,6 @@
 ﻿using DesignPatterns.Abstract_Factory;
 using DesignPatterns.Factory_Method;
+using DesignPatterns.Singleton;
 using System;
 
 namespace DesignPatterns
@@ -27,6 +28,9 @@ namespace DesignPatterns
                     break;
                 case '2':
                     ExecucaoFactoryMethod.Executar();
+                    break;
+                case '3':
+                    Singleton.Singleton.Executar();
                     break;
                 default:
                     break;
